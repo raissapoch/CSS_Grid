@@ -27,13 +27,10 @@
 }
 
 .populares__card{
+    background: #fdfdfd;
     display: grid;
     grid-template-areas: "card-imagem" "card-corpo";
     grid-template-columns: 100%;
-    grid-template-rows: 173px auto;
-    margin-right: 1rem;
-    width: calc(20% - 1rem);
-    background: #fdfdfd;
 }
 
 .populares__card:last-child{
