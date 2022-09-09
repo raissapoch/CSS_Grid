@@ -8,7 +8,6 @@
 }
 
 .cabecalho {
-    background: green;
     grid-area: cabecalho;
 }
  
@@ -17,7 +16,6 @@
 }
 
 .rodape {
-    background: blue;
     grid-area: rodape
     ;
 }
